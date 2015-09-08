@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Generate a Rails app called "jokes".
 
 - use the latest stable version of Rails and Ruby
@@ -24,3 +25,6 @@ so of course you will need a route for `/ping`. It should render only json - no 
 - Do your best to remove any view logic from the jokes application. No views, no view helpers, no references to views in any config. This doesn't have to be perfect, but let's make sure there are no view directories in the project.
 
 - push your jokes app to github, and post the link here in hipchat
+=======
+# jokes_api
+>>>>>>> e146f450f94a67554fc140f36a6a6d98a21c7b13
